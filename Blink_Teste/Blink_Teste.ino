@@ -36,6 +36,9 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
 }
+
+//Thiago Rocha do Nascimento
+
 //Marina azevedo
 
 
@@ -77,7 +80,7 @@ void loop() {
 <<<<<<< HEAD
 >>>>>>> 2207857e4e4a2bd57b511fb0e9b737b8ff958e5c
 
-// Thiago Rocha do Nascimento
+
 =======
 //rodolfo nemes silva
 
