@@ -37,37 +37,21 @@ void loop() {
   delay(1000);                       // wait for a second
 }
 
-<<<<<<< HEAD
 //Elivelton
 //Vinicius
-=======
 //Thiago Rocha do Nascimento
-
 //Marina azevedo
-
 //Raissa
-
 /*alteração Silvia*/
 // Matias Fernandes
 // Ricardo Lemos.
 // João Netto
 //Sidnei de Souza
-
 // thiago Viana 
 //Fernando Candido "Fefe"
 //Sidnei de Souza
 //rodolfo nemes silva
 //Vinicius Moretti Pestana
-<<<<<<< HEAD
->>>>>>> f2d97ceec6787e4535ee3160fe7e5c911d0c0c5f
-<<<<<<< HEAD
->>>>>>> 167ef092f758e5db3785a0d07360c3b7c7b4a31a
-=======
-
 // Thiago Santos
->>>>>>> c8539845f4d1696fbf3a0e1d02e01293599c6a16
-=======
-
 // Thiago Santos
 //Wagner Ishikawa
->>>>>>> ffb5338fcde8afc71bb3290415f0420eb033ac89
