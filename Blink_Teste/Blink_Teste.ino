@@ -36,3 +36,10 @@ void loop() {
   delay(1000);                       // wait for a second
 }
 //marina
+
+// Matias Fernandes
+
+// Ricardo Lemos.
+
+// João Netto
+
