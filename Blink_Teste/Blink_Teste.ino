@@ -37,4 +37,15 @@ void loop() {
 }
 
 
+
 /*alteração Silvia*/
+
+// Matias Fernandes
+
+// Ricardo Lemos.
+
+// João Netto
+
+
+//Sidnei de Souza
+
