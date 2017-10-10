@@ -36,6 +36,9 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
 }
+//Marina azevedo
+
+
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -47,7 +50,11 @@ void loop() {
 
 /*alteração Silvia*/
 
+<<<<<<< HEAD
 >>>>>>> 2207857e4e4a2bd57b511fb0e9b737b8ff958e5c
+=======
+
+>>>>>>> f60c1c3e171f692961ebab963f8c5cd2ee34c0c4
 // Matias Fernandes
 
 // Ricardo Lemos.
@@ -56,6 +63,13 @@ void loop() {
 <<<<<<< HEAD
 >>>>>>> a95d3bd303963ad92916c609fbc138f6ea25a59d
 =======
+
+
+
+
+
+//Sidnei de Souza
+
 
 //Fernando Candido "Fefe"
 //Sidnei de Souza
@@ -67,4 +81,8 @@ void loop() {
 =======
 //rodolfo nemes silva
 
+<<<<<<< HEAD
 >>>>>>> 3bab746d70ee3ff96435bc5e976be430534df53c
+=======
+
+>>>>>>> f60c1c3e171f692961ebab963f8c5cd2ee34c0c4
