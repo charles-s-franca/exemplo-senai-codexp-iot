@@ -97,4 +97,9 @@ void loop() {
 =======
 //Vinicius Moretti Pestana
 >>>>>>> f2d97ceec6787e4535ee3160fe7e5c911d0c0c5f
+<<<<<<< HEAD
 >>>>>>> 167ef092f758e5db3785a0d07360c3b7c7b4a31a
+=======
+
+// Thiago Santos
+>>>>>>> c8539845f4d1696fbf3a0e1d02e01293599c6a16
