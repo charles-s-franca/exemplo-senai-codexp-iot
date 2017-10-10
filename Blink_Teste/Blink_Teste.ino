@@ -41,3 +41,4 @@ void loop() {
 =======
 // Ricardo Lemos.
 >>>>>>> 90694720b6cc721acd0775a9f34e641c8af66008
+// João Netto
