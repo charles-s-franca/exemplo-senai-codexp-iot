@@ -1,4 +1,3 @@
-//Manoel Mateus
 /*
   Blink
 
@@ -37,4 +36,5 @@ void loop() {
   delay(1000);                       // wait for a second
 }
 
-//Elivelton
+
+/*alteração Silvia*/
