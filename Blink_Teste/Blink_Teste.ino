@@ -60,3 +60,5 @@ void loop() {
 //Sidnei de Souza
 
 >>>>>>> 2207857e4e4a2bd57b511fb0e9b737b8ff958e5c
+
+// Thiago Nascimento
