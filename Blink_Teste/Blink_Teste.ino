@@ -36,3 +36,17 @@ void loop() {
   digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
   delay(1000);                       // wait for a second
 }
+
+
+
+/*alteração Silvia*/
+
+// Matias Fernandes
+
+// Ricardo Lemos.
+
+// João Netto
+
+//Fernando Candido "Fefe"
+//Sidnei de Souza
+
