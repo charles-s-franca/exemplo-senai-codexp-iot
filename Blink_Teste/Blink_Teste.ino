@@ -36,4 +36,13 @@ void loop() {
   delay(1000);                       // wait for a second
 }
 
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+// Matias Fernandes
+=======
+// Ricardo Lemos.
+>>>>>>> 90694720b6cc721acd0775a9f34e641c8af66008
+// João Netto
+>>>>>>> a95d3bd303963ad92916c609fbc138f6ea25a59d
