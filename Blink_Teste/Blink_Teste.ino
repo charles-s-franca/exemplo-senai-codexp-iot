@@ -37,12 +37,26 @@ void loop() {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 <<<<<<< HEAD
-// Matias Fernandes
 =======
+
+
+/*alteração Silvia*/
+
+>>>>>>> 2207857e4e4a2bd57b511fb0e9b737b8ff958e5c
+// Matias Fernandes
+
 // Ricardo Lemos.
->>>>>>> 90694720b6cc721acd0775a9f34e641c8af66008
+
 // João Netto
+<<<<<<< HEAD
 >>>>>>> a95d3bd303963ad92916c609fbc138f6ea25a59d
+=======
+
+
+//Sidnei de Souza
+
+>>>>>>> 2207857e4e4a2bd57b511fb0e9b737b8ff958e5c
