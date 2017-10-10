@@ -77,12 +77,16 @@ void loop() {
 <<<<<<< HEAD
 >>>>>>> 2207857e4e4a2bd57b511fb0e9b737b8ff958e5c
 
-// Thiago Nascimento
+// Thiago Rocha do Nascimento
 =======
 //rodolfo nemes silva
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 3bab746d70ee3ff96435bc5e976be430534df53c
 =======
 
 >>>>>>> f60c1c3e171f692961ebab963f8c5cd2ee34c0c4
+=======
+//Vinicius Moretti Pestana
+>>>>>>> f2d97ceec6787e4535ee3160fe7e5c911d0c0c5f
